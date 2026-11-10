@@ -1,0 +1,33 @@
+1
+00:00:02,300 --> 00:00:08,010
+This is LectureForge, my Multimedia project. It makes lecture recordings shorter.
+
+2
+00:00:08,160 --> 00:00:12,050
+I drop in a sample lecture. Nothing gets uploaded.
+
+3
+00:00:12,200 --> 00:00:17,010
+The app finds the silent parts by itself. Six gaps in this file.
+
+4
+00:00:17,300 --> 00:00:21,480
+Every gap is listed. I can keep one with a single click.
+
+5
+00:00:23,300 --> 00:00:28,050
+Now I speed it up to one and a half times. Pitch stays natural.
+
+6
+00:00:28,300 --> 00:00:34,800
+Then I export. It cuts, stretches, and encodes an MP3, all inside the browser.
+
+7
+00:00:45,300 --> 00:00:50,160
+Done. A smaller MP3, saved straight to my computer.
+
+8
+00:00:50,310 --> 00:00:54,830
+Offline, private, and free. Thanks for watching.
+
+

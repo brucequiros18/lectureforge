@@ -1,0 +1,31 @@
+1
+00:00:02,000 --> 00:00:07,000
+LectureForge — cut the silence out of lecture recordings
+
+2
+00:00:07,000 --> 00:00:11,000
+Step 1 · Drop a lecture recording — nothing is uploaded
+
+3
+00:00:11,000 --> 00:00:17,000
+Silent gaps are detected automatically
+
+4
+00:00:17,000 --> 00:00:23,000
+Step 2 · Review each gap — keep a pause with one click
+
+5
+00:00:23,000 --> 00:00:28,000
+Step 3 · Speed it up — pitch stays natural
+
+6
+00:00:28,000 --> 00:00:45,000
+Step 4 · Export MP3 — everything runs on this device
+
+7
+00:00:45,000 --> 00:00:50,000
+Done — saved to your device, shorter and ready to share
+
+8
+00:00:50,000 --> 00:00:54,000
+LectureForge — offline, private, student-friendly
